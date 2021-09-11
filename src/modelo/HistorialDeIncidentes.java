@@ -11,7 +11,7 @@ package modelo;
  */
 public class HistorialDeIncidentes {
 
-private List <Incidente>     
+    
     
     
 }
