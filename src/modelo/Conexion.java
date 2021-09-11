@@ -10,5 +10,5 @@ package modelo;
  * @author Leonardo Obando
  */
 public class Conexion {
-    
+    //pto el que lo lea
 }
