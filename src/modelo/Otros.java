@@ -10,5 +10,10 @@ package modelo;
  * @author Leonardo Obando
  */
 public class Otros extends Incidente{
+
+    public Otros(String callePri, String calleSec, String barrio, String descripcionIncidente, String fecha) {
+        super(callePri, calleSec, barrio, descripcionIncidente, fecha);
+    }
+    
     
 }

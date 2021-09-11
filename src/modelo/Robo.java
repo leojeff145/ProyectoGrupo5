@@ -10,5 +10,9 @@ package modelo;
  * @author Leonardo Obando
  */
 public class Robo extends Incidente{
+    public Robo(String callePri, String calleSec, String barrio, String descripcionIncidente, String fecha) {
+        super(callePri, calleSec, barrio, descripcionIncidente, fecha);
+    }
+    
     
 }

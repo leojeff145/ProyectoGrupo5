@@ -11,4 +11,8 @@ package modelo;
  */
 public class PeleaCallegera extends Incidente{
     
+    public PeleaCallegera(String callePri, String calleSec, String barrio, String descripcionIncidente, String fecha) {
+        super(callePri, calleSec, barrio, descripcionIncidente, fecha);
+    } 
+    
 }
