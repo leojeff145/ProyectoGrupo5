@@ -9,6 +9,12 @@ package modelo;
  *
  * @author Leonardo Obando
  */
-public class Conexion {
+public class MostrarPorBarrio implements MostrarIncidentes{
+
+    @Override
+    public void mostarInformacion() {
+        
+    }
+    
     
 }

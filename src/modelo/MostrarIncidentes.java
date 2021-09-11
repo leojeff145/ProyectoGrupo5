@@ -9,6 +9,8 @@ package modelo;
  *
  * @author Leonardo Obando
  */
-public class Conexion {
+public interface MostrarIncidentes {
+    
+    public void mostarInformacion();
     
 }
