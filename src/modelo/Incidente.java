@@ -12,11 +12,11 @@ import java.util.Date;
  * @author Leonardo Obando
  */
 public class Incidente {
-    private String callePri;    
-    private String calleSec;
-    private String barrio;
-    private String descripcionIncidente;
-    private Date fechaRegistro;
-    private Date fechaIncidente;
+    protected String callePri;    
+    protected String calleSec;
+    protected String barrio;
+    protected String descripcionIncidente;
+    protected Date fechaRegistro;
+    protected Date fechaIncidente;
     
 }
